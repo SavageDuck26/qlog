@@ -1,4 +1,4 @@
-# qlog
+# qlog (Quick Log)
 
 Macro to append a line for logging.
 
