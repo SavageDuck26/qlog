@@ -9,5 +9,5 @@ qlog = { git = "https://github.com/SavageDuck26/qlog.git" }
 ```rust
 use qlog::qlog;
 
-qlog!("logs/app.log", "One does not simply write documentation.");
+let _ = qlog!("logs/app.log", "One does not simply write documentation.");
 ```
